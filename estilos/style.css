@@ -10,6 +10,7 @@ body {
 
 img.foto {
     float: right;
+    width: 50px;
 }
 
 main {
